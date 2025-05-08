@@ -90,3 +90,6 @@ vendor/
 # Arquivos de caches do IDE
 .idea/*
 .idea/.idea/*
+
+# Pastas
+out/production/MOD_04
