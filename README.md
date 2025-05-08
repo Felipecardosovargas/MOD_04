@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://d9hhrg4mnvzow.cloudfront.net/lp.3035tech.com/96c1669d-logo-teach-horiz-branco_1000000000000000000028.png" alt="Teach Horizon Logo" width="300"/>
+  <img src="https://d9hhrg4mnvzow.cloudfront.net/lp.3035tech.com/96c1669d-logo-teach-horiz-branco_1000000000000000000028.png" alt="Teach Horizon Logo" width="150"/>
 </p>
 
 # Java Object-Oriented Programming – Module 4
