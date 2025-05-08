@@ -1,0 +1,92 @@
+# IDEs
+.idea/
+.vscode/
+
+# Dependências de pacotes (Node.js, Python, Java)
+node_modules/
+bower_components/
+venv/
+env/
+target/
+build/
+dist/
+
+# Arquivos de sistema
+.DS_Store          # macOS
+Thumbs.db           # Windows
+
+# Arquivos de log
+*.log
+*.log.*
+
+# Arquivos temporários
+*.swp
+*.bak
+*.tmp
+
+# Arquivos de backup
+*~
+*.bak
+
+# Arquivos de cache de compilação (compilação Java, Python, etc)
+*.class             # Java
+*.pyc               # Python
+*.pyo               # Python
+*.pyd               # Python
+*.o                 # Arquivos objetos (compilação)
+*.a                 # Arquivos de biblioteca estática
+
+# Arquivos de configuração de editor
+*.sublime-workspace
+*.sublime-project
+.vscode/
+
+# Arquivos do sistema operacional
+Thumbs.db           # Windows
+Desktop.ini         # Windows
+
+# Arquivos do NPM
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Arquivos de configuração do Docker
+.docker/
+docker-compose.override.yml
+docker-compose.yml
+
+# Arquivos de configuração do Gradle
+.gradle/
+
+# Arquivos gerados pelo Maven
+*.log
+target/
+
+# Arquivos de ambiente (geralmente ignorados)
+.env
+.env.*
+
+# Dependências do Composer (PHP)
+vendor/
+
+# Arquivos de cache de ferramentas como Webpack
+*.webpack.js
+
+# Arquivos de compilação do TypeScript
+*.tsbuildinfo
+
+# Arquivos do Visual Studio
+.vs/
+.vs2017/
+
+# Arquivos do IntelliJ IDEA (ou outros IDEs JetBrains)
+.idea/
+*.iml
+
+# Arquivos temporários de build (Flutter)
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Arquivos de caches do IDE
+.idea/*
+.idea/.idea/*
